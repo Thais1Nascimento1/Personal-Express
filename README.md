@@ -1,6 +1,6 @@
 # Personal Express App
 ## Type in your favorite restaurants and favorite dishes. Rate your dishes and restaurants by giving it a thumbs up or thumbs down.
-![foodie](Foodie.png)
+![foodie](public/Foodie.png)
 
 
 #Technologies Used
