@@ -1,0 +1,29 @@
+*{
+  box-sizing: border-box;
+  font-family: 'El Messiri', sans-serif;
+}
+
+body{
+  background-image: url("foodie.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1{
+  font-size: 50px;
+  font-family: 'El Messiri', sans-serif;
+}
+button{
+  font-size:30px;
+  text-align: center;
+    border-radius: 30%;
+}
+
+input{
+  text-align: center;
+  font-size: 30px;
+  border-radius: 30%;
+}
+span{
+  font-size:25px;
+}
