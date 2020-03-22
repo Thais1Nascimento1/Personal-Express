@@ -3,6 +3,5 @@
 ![foodie](public/Foodie.png)
 
 
-#Technologies Used
+# Technologies Used
 ### ejs,node.js,css, mondgoDB,express,passport
-# Personal-Express
